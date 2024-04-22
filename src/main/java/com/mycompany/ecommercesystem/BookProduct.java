@@ -1,12 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package com.mycompany.ecommercesystem;
-/**
- *
- * @author micho
- */
+
 public class BookProduct extends Product{
   private String author;
   private String publisher;
